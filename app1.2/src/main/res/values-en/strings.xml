@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mobile_task_1_2_Clicker</string>
+    <string name="click1">INCREASE</string>
+    <string name="click2">REDUCE</string>
+    <string name="clear">CLEAR</string>
+</resources>

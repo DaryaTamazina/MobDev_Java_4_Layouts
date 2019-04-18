@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mobile_task_1_2_Clicker</string>
+    <string name="click1">УВЕЛИЧИТЬ</string>
+    <string name="click2">УМЕНЬШИТЬ</string>
+    <string name="clear">ОЧИСТИТЬ</string>
+</resources>
