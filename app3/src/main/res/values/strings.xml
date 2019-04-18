@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DopTask</string>
+    <string name="greetings">Hello from XML</string>
+    <string name="button">Add</string>
+    <string name="buttondel">Delete</string>
+    <string name="hint">A name</string>
+    <string name="sen">is learning Android development</string>
+    <string name="sen2">Set in java</string>
+</resources>

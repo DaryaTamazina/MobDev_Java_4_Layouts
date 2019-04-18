@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DopTask</string>
+    <string name="greetings">Привет XML</string>
+    <string name="button">Добавить</string>
+    <string name="buttondel">Удалит</string>
+    <string name="hint">Имя</string>
+    <string name="sen">изучает разработку под Андройд</string>
+    <string name="sen2">Изменить на Джава</string>
+</resources>
