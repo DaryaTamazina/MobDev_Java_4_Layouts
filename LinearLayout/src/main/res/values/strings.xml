@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="btn">Button</string>
+    <string name="text_view">Layouts</string>
+</resources>
