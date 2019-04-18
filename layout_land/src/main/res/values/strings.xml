@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LayoutLand</string>
+    <string name="btn1">Button1</string>
+    <string name="btn2">Button2</string>
+    <string name="btn3">Button3</string>
+    <string name="btn4">Button4</string>
+    <string name="sen">Вертикальная ориентация экрана</string>
+    <string name="sen2">Горизонтальная ориентация экрана</string>
+
 </resources>

@@ -8,8 +8,7 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Вертикальная ориентация экрана">
-    </TextView>
+        android:text="@string/sen"/>
     <LinearLayout
         android:id="@+id/linearLayout1"
         android:layout_width="match_parent"
@@ -19,25 +18,21 @@
             android:id="@+id/button1"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:text="Button1">
-        </Button>
+            android:text="@string/btn1"/>
         <Button
             android:id="@+id/button2"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:text="Button2">
-        </Button>
+            android:text="@string/btn2"/>
         <Button
             android:id="@+id/button3"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:text="Button3">
-        </Button>
+            android:text="@string/btn3"/>
         <Button
             android:id="@+id/button4"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:text="Button4">
-        </Button>
+            android:text="@string/btn4"/>
     </LinearLayout>
 </LinearLayout>

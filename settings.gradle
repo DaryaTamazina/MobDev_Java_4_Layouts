@@ -1,1 +1,1 @@
-include ':main_elements', ':layout_land', ':visual', ':LinearLayout', ':AbsoluteLayout', ':RelativeLayout', ':TableLayout', ':app', ':app1.2', ':app3'
+include ':main_elements', ':visual', ':LinearLayout', ':AbsoluteLayout', ':RelativeLayout', ':TableLayout', ':app', ':app1.2', ':app3', ':layout_land'
